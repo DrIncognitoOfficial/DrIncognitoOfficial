@@ -12,4 +12,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrIncognitoOfficial&show_icons=true&theme=radical)
 
 ## 🌈 Fun Fact:
-I love playing chess and playing in my free time! 🖌️♟️
+I love playing chess in my free time! 🖌️♟️
